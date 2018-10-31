@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/fontawesome.min.css">
 </head>
 
 <body class="satoru">
@@ -35,7 +36,7 @@
               <h3><i class="fa fa-tablet" aria-hidden="true"></i>Descarga la app</h3>
             </div>
               <h1 class="nombre-sitio">Proyecto Satoru</h1>
-              <h1 class="slogan">Encuentra <span>Empleo</span></h1>
+              <h1 class="slogan">Encuentra Empleo</h1>
           </div><!--.contenido-header-->
         </div><!--.hero-->
     </header>
@@ -44,7 +45,7 @@
       <div class="contenedor clearfix">
         <div class="logo">
           <a href="index.html">
-          <img src="img/logo.png" alt="logo satoru">
+          <img src="img/logo.svg" alt="logo satoru">
           </a>
         </div>
 
