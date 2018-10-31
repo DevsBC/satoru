@@ -152,7 +152,7 @@ textarea {
      display: block;
    }
    h3 {
-     font-size: .8em;
+     font-size: .9em;
      color: purple;
      font-family: 'PT Sans', sans-serif;
      margin: 0;
@@ -512,6 +512,36 @@ textarea {
      display: block;
    }
 
+/** Programa **/
+section.programa {
+  position: relative;
+}
+div.contenedor-video {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+div.contenido-programa {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+div.programa-evento {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 15px;
+  margin-top: 80px;
+}
+@media only screen and (min-width:768px) {
+  div.programa-evento {
+    width: 70%;
+  }
+}
+@media only screen and (min-width:992px) {
+  div.programa-evento {
+    width: 60%;
+  }
+}
 
 
    /** Footer **/

@@ -10,11 +10,41 @@
 
 <section class="programa">
   <div class="contenedor-video">
-    <video  autoplay  loop poster="bg-talleres.jpg">
-
+    <video  autoplay  loop poster="img/bg-talleres.jpg">
+      <source src="video/video.mp4" type="video/mp4">
+      <source src="video/video.webm" type="video/webm">
+      <source src="video/video.ogv" type="video/ogg">
     </video>
-  </div>
+  </div><!--contenedor del video -->
 
-</section>
+  <div class="contenido-programa">
+    <div class="contenedor">
+      <div class="programa-evento">
+        <h2>Trabajos mas solicitados</h2>
+        <nav class="menu-programa">
+          <a href="#software"><i class="fas fa-code" aria-hidden="true"></i>Software</a>
+          <a href="#diseño"><i class="fas fa-draw-polygon"aria-hidden="true"></i>Diseño</a>
+          <a href="#marketing"><i class="fab fa-sellsy" aria-hidden="true"></i>Marketing</a>
+        </nav>
+
+        <div id="talleres" class="info-curso ocultar clearfix">
+
+          <div class="detalle-evento">
+            <h3>HTML5, CSS3 y Javascript</h3>
+            <p>Desarrollo Web</p>
+          </div>
+          <div class="detalle-evento">
+            <h3>Responsive Web Design</h3>
+            <p>Desarrollo Web</p>
+          </div>
+
+          <a href="#" class="button float-right">Ver todos</a>
+        </div>
+      </div>
+    </div>
+  </div><!--contenido-programa-->
+
+
+</section><!--Programa-->
 
 <?php include_once 'includes/templates/footer.php' ?>
