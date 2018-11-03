@@ -32,9 +32,6 @@
               <a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
               <a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a>
             </nav>
-            <div class="app">
-              <h3><i class="fa fa-tablet" aria-hidden="true"></i>Descarga la app</h3>
-            </div>
               <h1 class="nombre-sitio">Proyecto Satoru</h1>
               <h1 class="slogan">Encuentra Empleo</h1>
           </div><!--.contenido-header-->

@@ -50,25 +50,25 @@
   <ul class="lista-alianzas clearfix">
     <li>
       <div class="aliado">
-        <img src="img/invitado1.jpg" alt="imagen de aliado">
+        <img src="img/invitado1.png" alt="imagen de aliado">
         <p>CENALTEC</p>
       </div>
     </li>
     <li>
       <div class="aliado">
-        <img src="img/invitado2.jpg" alt="imagen de aliado">
+        <img src="img/invitado2.png" alt="imagen de aliado">
         <p>Tec de Juarez</p>
       </div>
     </li>
     <li>
       <div class="aliado">
-        <img src="img/invitado3.jpg" alt="imagen de aliado">
+        <img src="img/invitado3.png" alt="imagen de aliado">
         <p>UACJ</p>
       </div>
     </li>
     <li>
       <div class="aliado">
-        <img src="img/invitado4.jpg" alt="imagen de aliado">
+        <img src="img/invitado4.jpeg" alt="imagen de aliado">
         <p>Grupo Dextro</p>
       </div>
     </li>
@@ -80,7 +80,7 @@
     </li>
     <li>
       <div class="aliado">
-        <img src="img/invitado6.jpg" alt="imagen de aliado">
+        <img src="img/invitado6.jpeg" alt="imagen de aliado">
         <p>AMA</p>
       </div>
     </li>
